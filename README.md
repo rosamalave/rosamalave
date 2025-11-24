@@ -1,0 +1,115 @@
+# Hi there, I'm Rosanny Malavé 👋
+
+> **Systems Engineer** | Full Stack Developer | Automation Specialist  
+> Building practical solutions that streamline operations and support data-driven decisions
+
+## 🛠️ Tech Stack
+
+**Languages:** 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+
+**Frameworks & Libraries:**
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+
+**Databases & Tools:**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+
+## 📊 GitHub Activity
+
+![Rosanny's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosamalave&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=0078D4&icon_color=0078D4)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rosamalave&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=0078D4)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malave-r-873199313)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rosamalavework@gmail.com)
+
+---
+
+## 🌟 Featured Projects
+
+### 🔧 [APA Multi-Page Table Fixer](https://github.com/rosamalave/apa-multi-page-table-fixer)
+
+> Fix APA table titles that repeat across multiple pages in PDF documents. Perfect for theses and scientific papers.
+
+![APA Table Fixer](https://github.com/rosamalave/apa-multi-page-table-fixer/blob/main/docs/screenshots/main-window.png)
+
+**Tech Stack:** 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![CustomTkinter](https://img.shields.io/badge/CustomTkinter-EEEEEE?style=flat&logo=python&logoColor=3776AB)
+![PyMuPDF](https://img.shields.io/badge/PyMuPDF-000000?style=flat&logo=adobe-acrobat-reader&logoColor=white)
+
+**Highlights:**
+- ✅ Automatic table detection and formatting
+- ✅ Modern GUI with Fluent Design + Glassmorphism
+- ✅ Preserves original document formatting
+
+---
+
+### 🤖 [Binance Automation System](https://github.com/rosamalave/automatizacion-binance-transfi)
+
+> Automation system for financial operations with Binance API integration, GitHub Actions workflows, and automated reporting.
+
+<div align="center">
+
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
+<svg width="40" height="20" xmlns="http://www.w3.org/2000/svg" style="vertical-align: middle; margin: 0 10px;">
+  <path d="M10 10 L30 10 M25 5 L30 10 L25 15" stroke="#6c757d" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+<svg width="40" height="20" xmlns="http://www.w3.org/2000/svg" style="vertical-align: middle; margin: 0 10px;">
+  <path d="M10 10 L30 10 M25 5 L30 10 L25 15" stroke="#6c757d" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
+[![Binance](https://img.shields.io/badge/Binance-F0B90B?style=for-the-badge&logo=binance&logoColor=black)](https://www.binance.com/)
+<svg width="40" height="20" xmlns="http://www.w3.org/2000/svg" style="vertical-align: middle; margin: 0 10px;">
+  <path d="M10 10 L30 10 M25 5 L30 10 L25 15" stroke="#6c757d" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.org/)
+<svg width="40" height="20" xmlns="http://www.w3.org/2000/svg" style="vertical-align: middle; margin: 0 10px;">
+  <path d="M10 10 L30 10 M25 5 L30 10 L25 15" stroke="#6c757d" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
+[![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)](https://www.google.com/sheets/about/)
+
+</div>
+
+**Tech Stack:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Binance](https://img.shields.io/badge/Binance-F0B90B?style=flat&logo=binance&logoColor=black)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat&logo=google-sheets&logoColor=white)
+
+**Highlights:**
+- ✅ Automated financial reports via GitHub Actions
+- ✅ Real-time API integration with Binance
+- ✅ Automated notifications to Telegram & Google Sheets
+- ✅ Reduced operational processing time by 38%
+
+---
+
+## 💬 Let's Connect
+
+I'm always open to discussing new opportunities, collaborations, or just chatting about tech!
+
+- 📧 **Email:** rosamalavework@gmail.com
+- 💼 **LinkedIn:** [malave-r-873199313](https://www.linkedin.com/in/malave-r-873199313)
+- 📱 **Phone:** +58 412-0973187
+
+---
+
+<div align="center">
+
+Made with ❤️ by Rosanny Malavé
+
+</div>
+
