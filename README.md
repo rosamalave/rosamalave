@@ -44,13 +44,10 @@
 
 <table>
   <tr>
-    <td width="33.33%">
+    <td width="50%">
       <img src="https://github.com/rosamalave/rosamalave/blob/main/activity.svg" alt="Activity" />
     </td>
-    <td width="33.33%">
-      <img src="https://github.com/rosamalave/rosamalave/blob/main/repositories-stats.svg" alt="Repository Stats" />
-    </td>
-    <td width="33.33%">
+    <td width="50%">
       <img src="https://github.com/rosamalave/rosamalave/blob/main/languages.svg" alt="Languages" />
     </td>
   </tr>

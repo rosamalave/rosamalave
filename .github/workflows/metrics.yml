@@ -31,25 +31,7 @@ jobs:
           filename: activity.svg
           output_action: no
       
-      # 2. Generate Repository Stats SVG (no commit)
-      - name: Generate Repository Stats
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          use_prebuilt_image: yes
-          user: rosamalave
-          template: classic
-          base: header, repositories
-          plugin_repositories: yes
-          plugin_repositories_affiliations: owner
-          plugin_repositories_featured: ""
-          plugin_repositories_pinned: 0
-          plugin_repositories_starred: no
-          plugin_repositories_random: 0
-          filename: repositories-stats.svg
-          output_action: no
-      
-      # 3. Generate Languages SVG (no commit)
+      # 2. Generate Languages SVG (no commit)
       - name: Generate Languages
         uses: lowlighter/metrics@latest
         with:
@@ -66,11 +48,11 @@ jobs:
           filename: languages.svg
           output_action: no
       
-      # 4. Commit all SVGs together
+      # 3. Commit all SVGs together
       - name: Commit SVGs
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
-          git add activity.svg repositories-stats.svg languages.svg
+          git add activity.svg languages.svg
           git diff --staged --quiet || git commit -m "Update metrics SVGs - [Skip GitHub Action]"
           git push
