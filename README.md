@@ -40,13 +40,21 @@
 
 </div>
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
-<div align="center">
-
-![Metrics](https://github.com/rosamalave/rosamalave/blob/main/metrics.svg)
-
-</div>
+<table>
+  <tr>
+    <td width="33.33%">
+      <img src="https://github.com/rosamalave/rosamalave/blob/main/activity.svg" alt="Activity" />
+    </td>
+    <td width="33.33%">
+      <img src="https://github.com/rosamalave/rosamalave/blob/main/repositories-stats.svg" alt="Repository Stats" />
+    </td>
+    <td width="33.33%">
+      <img src="https://github.com/rosamalave/rosamalave/blob/main/languages.svg" alt="Languages" />
+    </td>
+  </tr>
+</table>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malave-r-873199313)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rosamalavework@gmail.com)
