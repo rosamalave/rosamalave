@@ -94,11 +94,6 @@ jobs:
           plugin_people_limit: 24
           plugin_people_types: followers, following
           
-          # LeetCode plugin
-          plugin_leetcode: yes
-          plugin_leetcode_user: rosamalave
-          plugin_leetcode_token: ${{ secrets.LEETCODE_SESSION }}
-          
           # Output
           filename: metrics.svg
           output_action: commit
