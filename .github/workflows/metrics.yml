@@ -14,7 +14,11 @@ jobs:
     permissions:
       contents: write
     steps:
-      # 1. Generate Activity SVG
+      # Checkout repository first
+      - name: Checkout
+        uses: actions/checkout@v4
+      
+      # 1. Generate Activity SVG (no commit)
       - name: Generate Activity
         uses: lowlighter/metrics@latest
         with:
@@ -25,9 +29,9 @@ jobs:
           base: header, activity
           commits_authoring: yes
           filename: activity.svg
-          output_action: commit
+          output_action: no
       
-      # 2. Generate Repository Stats SVG
+      # 2. Generate Repository Stats SVG (no commit)
       - name: Generate Repository Stats
         uses: lowlighter/metrics@latest
         with:
@@ -43,9 +47,9 @@ jobs:
           plugin_repositories_starred: no
           plugin_repositories_random: 0
           filename: repositories-stats.svg
-          output_action: commit
+          output_action: no
       
-      # 3. Generate Languages SVG
+      # 3. Generate Languages SVG (no commit)
       - name: Generate Languages
         uses: lowlighter/metrics@latest
         with:
@@ -60,4 +64,13 @@ jobs:
           plugin_languages_details: bytes-size, percentage, bytes
           plugin_languages_sections: most-used
           filename: languages.svg
-          output_action: commit
+          output_action: no
+      
+      # 4. Commit all SVGs together
+      - name: Commit SVGs
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add activity.svg repositories-stats.svg languages.svg
+          git diff --staged --quiet || git commit -m "Update metrics SVGs - [Skip GitHub Action]"
+          git push
