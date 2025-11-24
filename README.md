@@ -42,9 +42,13 @@
 
 ## 📊 GitHub Activity
 
-![Rosanny's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosamalave&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=0078D4&icon_color=0078D4)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rosamalave&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=0078D4)
+<img src="https://github-readme-stats.vercel.app/api?username=rosamalave&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=0078D4&icon_color=0078D4" alt="Rosanny's GitHub stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosamalave&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=0078D4" alt="Top Languages" />
+
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malave-r-873199313)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rosamalavework@gmail.com)
