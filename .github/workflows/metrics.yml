@@ -16,81 +16,84 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # GitHub token (required) - uses automatic GITHUB_TOKEN
+          # GitHub token (required)
           token: ${{ secrets.GITHUB_TOKEN }}
-
-          # Options
+          
+          # User
           user: rosamalave
+          
+          # Template
           template: classic
+          
+          # Base sections
           base: header, activity, community, repositories, metadata
           
           # Commits
           commits_authoring: yes
           
-          # Languages
+          # Languages plugin
           plugin_languages: yes
-          plugin_languages_analysis_timeout: 15
+          plugin_languages_limit: 8
           plugin_languages_colors: github
           plugin_languages_details: bytes-size, percentage, bytes
-          plugin_languages_limit: 8
-          plugin_languages_recent_categories: all
-          plugin_languages_recent_days: 14
-          plugin_languages_recent_load: 300
           plugin_languages_sections: most-used, recently-used
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_categories: all
+          plugin_languages_recent_load: 300
+          plugin_languages_analysis_timeout: 15
           
-          # Isometric Calendar
+          # Isometric calendar plugin
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           
-          # Habits
+          # Habits plugin
           plugin_habits: yes
           plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_from: 200
           plugin_habits_languages_limit: 8
           
-          # Lines of code
+          # Lines plugin
           plugin_lines: yes
           
-          # Topics
+          # Topics plugin
           plugin_topics: yes
           plugin_topics_limit: 10
           
-          # Stars
+          # Stars plugin
           plugin_stars: yes
           plugin_stars_limit: 8
           
-          # Stargazers
+          # Stargazers plugin
           plugin_stargazers: yes
           plugin_stargazers_days: 14
           
-          # Licenses
+          # Licenses plugin
           plugin_licenses: yes
           
-          # Repositories
+          # Repositories plugin
           plugin_repositories: yes
           plugin_repositories_affiliations: owner, collaborator
           plugin_repositories_forks: yes
           plugin_repositories_pinned: 4
           plugin_repositories_starred: yes
           
-          # Contributors
+          # Contributors plugin
           plugin_contributors: yes
           
-          # Follow-up
+          # Follow-up plugin
           plugin_followup: yes
           plugin_followup_sections: repository, discussion
           plugin_followup_indepth: yes
           
-          # Reactions
+          # Reactions plugin
           plugin_reactions: yes
           
-          # People
+          # People plugin
           plugin_people: yes
           plugin_people_limit: 24
           plugin_people_types: followers, following
-
+          
           # Output
           filename: metrics.svg
           output_action: commit
-
