@@ -63,47 +63,66 @@
 
 ## 🌟 Featured Projects
 
-### 🔧 [APA Multi-Page Table Fixer](https://github.com/rosamalave/apa-multi-page-table-fixer)
-
-> Fix APA table titles that repeat across multiple pages in PDF documents. Perfect for theses and scientific papers.
-
-![APA Table Fixer](https://github.com/rosamalave/apa-multi-page-table-fixer/blob/main/docs/screenshots/main-window.png)
-
-**Tech Stack:** 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![CustomTkinter](https://img.shields.io/badge/CustomTkinter-EEEEEE?style=flat&logo=python&logoColor=3776AB)
-![PyMuPDF](https://img.shields.io/badge/PyMuPDF-000000?style=flat&logo=adobe-acrobat-reader&logoColor=white)
-
-**Highlights:**
-- ✅ Automatic table detection and formatting
-- ✅ Modern GUI with Fluent Design + Glassmorphism
-- ✅ Preserves original document formatting
-
----
-
-### 🤖 [Binance Automation System](https://github.com/rosamalave/automatizacion-binance-transfi)
-
-> Automation system for financial operations with Binance API integration, GitHub Actions workflows, and automated reporting.
-
-<div align="center">
-
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
-&nbsp; ➜ &nbsp;
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-&nbsp; ➜ &nbsp;
-[![Binance](https://img.shields.io/badge/Binance-F0B90B?style=for-the-badge&logo=binance&logoColor=black)](https://www.binance.com/)
-&nbsp; ➜ &nbsp;
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.org/)
-&nbsp; ➜ &nbsp;
-[![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)](https://www.google.com/sheets/about/)
-
-</div>
-
-**Highlights:**
-- ✅ Automated financial reports via GitHub Actions
-- ✅ Real-time API integration with Binance
-- ✅ Automated notifications to Telegram & Google Sheets
-- ✅ Reduced operational processing time by 38%
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🔧 <a href="https://github.com/rosamalave/apa-multi-page-table-fixer">APA Multi-Page Table Fixer</a></h3>
+      <p align="center">
+        <img src="https://github.com/rosamalave/apa-multi-page-table-fixer/blob/main/docs/screenshots/main-window.png" alt="APA Table Fixer" width="100%" style="border-radius: 8px;" />
+      </p>
+      <p align="center">
+        <i>Fix APA table titles that repeat across multiple pages in PDF documents. Perfect for theses and scientific papers.</i>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/CustomTkinter-EEEEEE?style=flat&logo=python&logoColor=3776AB" alt="CustomTkinter" />
+        <img src="https://img.shields.io/badge/PyMuPDF-000000?style=flat&logo=adobe-acrobat-reader&logoColor=white" alt="PyMuPDF" />
+      </p>
+      <p align="left">
+        <strong>Highlights:</strong><br/>
+        ✅ Automatic table detection and formatting<br/>
+        ✅ Modern GUI with Fluent Design + Glassmorphism<br/>
+        ✅ Preserves original document formatting
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 <a href="https://github.com/rosamalave/automatizacion-binance-transfi">Binance Automation System</a></h3>
+      <p align="center">
+        <div align="center">
+          <a href="https://github.com/features/actions">
+            <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+          </a>
+          &nbsp; ➜ &nbsp;
+          <a href="https://www.python.org/">
+            <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+          </a>
+          &nbsp; ➜ &nbsp;
+          <a href="https://www.binance.com/">
+            <img src="https://img.shields.io/badge/Binance-F0B90B?style=for-the-badge&logo=binance&logoColor=black" alt="Binance" />
+          </a>
+          &nbsp; ➜ &nbsp;
+          <a href="https://telegram.org/">
+            <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+          </a>
+          &nbsp; ➜ &nbsp;
+          <a href="https://www.google.com/sheets/about/">
+            <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" alt="Google Sheets" />
+          </a>
+        </div>
+      </p>
+      <p align="center">
+        <i>Automation system for financial operations with Binance API integration, GitHub Actions workflows, and automated reporting.</i>
+      </p>
+      <p align="left">
+        <strong>Highlights:</strong><br/>
+        ✅ Automated financial reports via GitHub Actions<br/>
+        ✅ Real-time API integration with Binance<br/>
+        ✅ Automated notifications to Telegram & Google Sheets<br/>
+        ✅ Reduced operational processing time by 38%
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
