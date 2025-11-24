@@ -55,8 +55,9 @@ jobs:
           # Lines plugin
           plugin_lines: yes
           
-          # Topics plugin
+          # Topics plugin (with icons)
           plugin_topics: yes
+          plugin_topics_mode: icons
           plugin_topics_limit: 10
           
           # Stars plugin
@@ -92,6 +93,11 @@ jobs:
           plugin_people: yes
           plugin_people_limit: 24
           plugin_people_types: followers, following
+          
+          # LeetCode plugin
+          plugin_leetcode: yes
+          plugin_leetcode_user: rosamalave
+          plugin_leetcode_token: ${{ secrets.LEETCODE_SESSION }}
           
           # Output
           filename: metrics.svg
