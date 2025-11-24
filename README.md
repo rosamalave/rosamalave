@@ -66,15 +66,13 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/rosamalave/apa-multi-page-table-fixer">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rosamalave&repo=apa-multi-page-table-fixer&theme=dark&show_owner=true" alt="APA Multi-Page Table Fixer" />
-      </a>
-      <h3 align="center">🔧 <a href="https://github.com/rosamalave/apa-multi-page-table-fixer">APA Multi-Page Table Fixer</a></h3>
       <p align="center">
-        <img src="https://github.com/rosamalave/apa-multi-page-table-fixer/blob/main/docs/screenshots/main-window.png" alt="APA Table Fixer" width="100%" style="border-radius: 8px;" />
+        <a href="https://github.com/rosamalave/apa-multi-page-table-fixer">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rosamalave&repo=apa-multi-page-table-fixer&theme=dark&show_owner=true" alt="APA Multi-Page Table Fixer" />
+        </a>
       </p>
       <p align="center">
-        <i>Fix APA table titles that repeat across multiple pages in PDF documents. Perfect for theses and scientific papers.</i>
+        <img src="https://github.com/rosamalave/apa-multi-page-table-fixer/blob/main/docs/screenshots/main-window.png" alt="APA Table Fixer" width="100%" style="border-radius: 8px;" />
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
@@ -89,10 +87,11 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/rosamalave/automatizacion-binance-transfi">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rosamalave&repo=automatizacion-binance-transfi&theme=dark&show_owner=true" alt="Binance Automation System" />
-      </a>
-      <h3 align="center">🤖 <a href="https://github.com/rosamalave/automatizacion-binance-transfi">Binance Automation System</a></h3>
+      <p align="center">
+        <a href="https://github.com/rosamalave/automatizacion-binance-transfi">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rosamalave&repo=automatizacion-binance-transfi&theme=dark&show_owner=true" alt="Binance Automation System" />
+        </a>
+      </p>
       <p align="center">
         <div align="center">
           <a href="https://github.com/features/actions">
@@ -115,9 +114,6 @@
             <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" alt="Google Sheets" />
           </a>
         </div>
-      </p>
-      <p align="center">
-        <i>Automation system for financial operations with Binance API integration, GitHub Actions workflows, and automated reporting.</i>
       </p>
       <p align="left">
         <strong>Highlights:</strong><br/>
