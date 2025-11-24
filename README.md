@@ -5,25 +5,40 @@
 
 ## 🛠️ Tech Stack
 
-**Languages:** 
+**Languages:**
+
+<div align="center">
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
+</div>
+
 **Frameworks & Libraries:**
+
+<div align="center">
+
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
+</div>
+
 **Databases & Tools:**
+
+<div align="center">
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+
+</div>
 
 ## 📊 GitHub Activity
 
@@ -63,21 +78,13 @@
 <div align="center">
 
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
-<svg width="40" height="20" xmlns="http://www.w3.org/2000/svg" style="vertical-align: middle; margin: 0 10px;">
-  <path d="M10 10 L30 10 M25 5 L30 10 L25 15" stroke="#6c757d" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>
+&nbsp; ➜ &nbsp;
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-<svg width="40" height="20" xmlns="http://www.w3.org/2000/svg" style="vertical-align: middle; margin: 0 10px;">
-  <path d="M10 10 L30 10 M25 5 L30 10 L25 15" stroke="#6c757d" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>
+&nbsp; ➜ &nbsp;
 [![Binance](https://img.shields.io/badge/Binance-F0B90B?style=for-the-badge&logo=binance&logoColor=black)](https://www.binance.com/)
-<svg width="40" height="20" xmlns="http://www.w3.org/2000/svg" style="vertical-align: middle; margin: 0 10px;">
-  <path d="M10 10 L30 10 M25 5 L30 10 L25 15" stroke="#6c757d" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>
+&nbsp; ➜ &nbsp;
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.org/)
-<svg width="40" height="20" xmlns="http://www.w3.org/2000/svg" style="vertical-align: middle; margin: 0 10px;">
-  <path d="M10 10 L30 10 M25 5 L30 10 L25 15" stroke="#6c757d" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>
+&nbsp; ➜ &nbsp;
 [![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)](https://www.google.com/sheets/about/)
 
 </div>
