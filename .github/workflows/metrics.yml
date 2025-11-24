@@ -16,8 +16,8 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # GitHub token (required)
-          token: ${{ secrets.GITHUB_TOKEN }}
+          # GitHub token (required) - uses personal access token
+          token: ${{ secrets.METRICS_TOKEN }}
           
           # User
           user: rosamalave
