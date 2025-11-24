@@ -53,6 +53,9 @@ jobs:
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
+          git pull origin main --rebase || true
           git add activity.svg languages.svg
-          git diff --staged --quiet || git commit -m "Update metrics SVGs - [Skip GitHub Action]"
-          git push
+          if ! git diff --staged --quiet; then
+            git commit -m "Update metrics SVGs - [Skip GitHub Action]"
+            git push origin main
+          fi
