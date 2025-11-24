@@ -19,6 +19,9 @@ jobs:
           # GitHub token (required) - uses personal access token
           token: ${{ secrets.METRICS_TOKEN }}
           
+          # Use prebuilt image to avoid docker/jq dependencies
+          use_prebuilt_image: yes
+          
           # User
           user: rosamalave
           
@@ -74,7 +77,6 @@ jobs:
           # Repositories plugin
           plugin_repositories: yes
           plugin_repositories_affiliations: owner, collaborator
-          plugin_repositories_forks: yes
           plugin_repositories_pinned: 4
           plugin_repositories_starred: yes
           
