@@ -87,7 +87,7 @@
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🤖 <a href="https://github.com/rosamalave/automatizacion-binance-transfi">Binance Automation System</a></h3>
-      <p align="center">
+      <p align="center" style="padding-top: 20px; padding-bottom: 20px;">
         <div align="center">
           <a href="https://github.com/features/actions">
             <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
