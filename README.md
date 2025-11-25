@@ -87,7 +87,7 @@
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🤖 <a href="https://github.com/rosamalave/automatizacion-binance-transfi">Binance Automation System</a></h3>
-      <br/><br/><br/>
+      <br/><br/>
       <p align="center">
         <div align="center">
           <a href="https://github.com/features/actions">
@@ -111,7 +111,7 @@
           </a>
         </div>
       </p>
-      <br/><br/><br/>
+      <br/><br/>
       <p align="center">
         <i>Automation system for financial operations with Binance API integration, GitHub Actions workflows, and automated reporting.</i>
       </p>
