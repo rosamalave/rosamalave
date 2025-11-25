@@ -72,7 +72,7 @@
         </a>
       </p>
       <p align="center">
-        <img src="https://github.com/rosamalave/apa-multi-page-table-fixer/blob/main/docs/screenshots/main-window.png" alt="APA Table Fixer" width="100%" style="border-radius: 8px;" />
+        <img src="https://github.com/rosamalave/apa-multi-page-table-fixer/blob/main/docs/screenshots/changes-detailsmodifications.png" alt="APA Table Fixer - Changes Details" width="100%" style="border-radius: 8px;" />
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
