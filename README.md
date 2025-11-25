@@ -61,6 +61,16 @@
 
 ---
 
+## 💬 Let's Connect
+
+I'm always open to discussing new opportunities, collaborations, or just chatting about tech!
+
+- 📧 **Email:** rosamalavework@gmail.com
+- 💼 **LinkedIn:** [malave-r-873199313](https://www.linkedin.com/in/malave-r-873199313)
+- 📱 **Phone:** +58 412-0973187
+
+---
+
 ## 🌟 Featured Projects
 
 <table>
@@ -126,16 +136,6 @@
     </td>
   </tr>
 </table>
-
----
-
-## 💬 Let's Connect
-
-I'm always open to discussing new opportunities, collaborations, or just chatting about tech!
-
-- 📧 **Email:** rosamalavework@gmail.com
-- 💼 **LinkedIn:** [malave-r-873199313](https://www.linkedin.com/in/malave-r-873199313)
-- 📱 **Phone:** +58 412-0973187
 
 ---
 
