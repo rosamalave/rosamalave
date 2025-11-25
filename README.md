@@ -87,7 +87,8 @@
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🤖 <a href="https://github.com/rosamalave/automatizacion-binance-transfi">Binance Automation System</a></h3>
-      <p align="center" style="padding-top: 20px; padding-bottom: 20px;">
+      <br/><br/><br/>
+      <p align="center">
         <div align="center">
           <a href="https://github.com/features/actions">
             <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
@@ -110,6 +111,7 @@
           </a>
         </div>
       </p>
+      <br/><br/><br/>
       <p align="center">
         <i>Automation system for financial operations with Binance API integration, GitHub Actions workflows, and automated reporting.</i>
       </p>
