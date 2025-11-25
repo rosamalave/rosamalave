@@ -61,16 +61,6 @@
 
 ---
 
-## 💬 Let's Connect
-
-I'm always open to discussing new opportunities, collaborations, or just chatting about tech!
-
-- 📧 **Email:** rosamalavework@gmail.com
-- 💼 **LinkedIn:** [malave-r-873199313](https://www.linkedin.com/in/malave-r-873199313)
-- 📱 **Phone:** +58 412-0973187
-
----
-
 ## 🌟 Featured Projects
 
 <table>
@@ -94,6 +84,7 @@ I'm always open to discussing new opportunities, collaborations, or just chattin
         ✅ Modern GUI with Fluent Design + Glassmorphism<br/>
         ✅ Preserves original document formatting
       </p>
+      <br/>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🤖 <a href="https://github.com/rosamalave/automatizacion-binance-transfi">Binance Automation System</a></h3>
@@ -139,9 +130,20 @@ I'm always open to discussing new opportunities, collaborations, or just chattin
 
 ---
 
+## 💬 Let's Connect
+
+I'm always open to discussing new opportunities, collaborations, or just chatting about tech!
+
+- 📧 **Email:** rosamalavework@gmail.com
+- 💼 **LinkedIn:** [malave-r-873199313](https://www.linkedin.com/in/malave-r-873199313)
+- 📱 **Phone:** +58 412-0973187
+
+---
+
 <div align="center">
 
 Made with ❤️ by Rosanny Malavé
 
 </div>
+
 
